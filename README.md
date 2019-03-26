@@ -30,3 +30,8 @@ Module 4 and 5:Done by Dheekshitha.D(15CSA15)
 Support vector machine (SVM) solves the traditional text categorization problem effectively; generally outperforming Naïve Bayes as it supports the concept of maximum margin. The idea of SVM is to determine a boundary or boundaries that separate distinct clusters or groups of data. SVM performs this task constructing a set of points and separating those points using mathematical formulas.
 
 •	The same steps had been followed for Support vector algorithm •	Finally the accuracy for both algorithms are equal with the difference in timings .Hence the prediction shows that the positive comments for iphone is more then Android.
+
+
+# Demo Video
+
+https://www.youtube.com/watch?v=yxkgJRave4c&feature=youtu.be
